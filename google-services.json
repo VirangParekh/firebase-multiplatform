@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970723047872",
+    "project_id": "multiplatform-trial",
+    "storage_bucket": "multiplatform-trial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970723047872:android:ea102a30de1e950313b025",
+        "android_client_info": {
+          "package_name": "com.multiplatform.trial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVZuCIZylA_Y9q2-my3sRU4VlGxp4OUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
